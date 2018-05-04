@@ -1,0 +1,16 @@
+.ball {
+  width: 10px;
+  height: 10px;
+  border-radius: 5px;
+  background: red;
+  position: absolute;
+}
+
+#sandbox {
+  border: 1px solid grey;
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  top: 40px;
+  left: 40px;
+}
